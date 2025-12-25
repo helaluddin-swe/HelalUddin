@@ -21,7 +21,7 @@ I design and implement reliable software with a focus on maintainability, testab
 ---
 
 ## 🛠️ Core Skills
-(Provide your top languages & technologies and I'll replace these placeholders.)
+
 
 - Languages: JavaScript/TypeScript, Python, Go
 - Backend: Node.js, Express, FastAPI, gRPC
@@ -74,9 +74,9 @@ I write about engineering, system design, and developer productivity. (Add links
 (Replace with your preferred contact channels.)
 
 - Email: hello@yourdomain.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Website / Portfolio: [your-portfolio.example.com](https://your-portfolio.example.com)
+- LinkedIn: [Helal Uddin](https://www.linkedin.com/in/helaluddin-swe)
+- Twitter: [@helal_uddin_swe](https://x.com/helal_uddin_swe)
+- Website / Portfolio: https://helaluddincoder.netlify.app/)]
 
 ---
 
