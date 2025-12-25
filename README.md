@@ -76,7 +76,7 @@ I write about engineering, system design, and developer productivity. (Add links
 - Email: hello@yourdomain.com
 - LinkedIn: [Helal Uddin](https://www.linkedin.com/in/helaluddin-swe)
 - Twitter: [@helal_uddin_swe](https://x.com/helal_uddin_swe)
-- Website / Portfolio: [helaluddincoder.netlify.com](https://helaluddincoder.netlify.com)
+- Website / Portfolio: [helaluddincoder.netlify.com](https://helaluddincoder.netlify.app)
 
 ---
 
@@ -87,7 +87,7 @@ I'm open to freelance, contract, or full-time roles that involve backend enginee
 
 ## ⚡ Quick Actions
 - 🔗 View my GitHub: [helaluddin-swe](https://github.com/helaluddin-swe)
-- 📄 Resume: ([Resume](https://helaluddincoder.netlify.app/download-resume))
+- 📄 Resume: (https://helaluddincoder.netlify.app/download-resume)
 - ✉️ Email me: ahmedhelaluddin0330@gmail.com
 
 ---
