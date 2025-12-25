@@ -71,7 +71,6 @@ I write about engineering, system design, and developer productivity. (Add links
 ---
 
 ## 📫 Contact
-(Replace with your preferred contact channels.)
 
 - Email: ahmedhelaluddin0330@gmail.com
 - LinkedIn: [Helal Uddin](https://www.linkedin.com/in/helaluddin-swe)
