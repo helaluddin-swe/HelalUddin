@@ -73,10 +73,10 @@ I write about engineering, system design, and developer productivity. (Add links
 ## 📫 Contact
 (Replace with your preferred contact channels.)
 
-- Email: hello@yourdomain.com
+- Email: ahmedhelaluddin0330@gmail.com
 - LinkedIn: [Helal Uddin](https://www.linkedin.com/in/helaluddin-swe)
 - Twitter: [@helal_uddin_swe](https://x.com/helal_uddin_swe)
-- Website / Portfolio: [helaluddincoder.netlify.com](https://helaluddincoder.netlify.app)
+- Website / Portfolio: [helaluddincoder.netlify.app](https://helaluddincoder.netlify.app)
 
 ---
 
